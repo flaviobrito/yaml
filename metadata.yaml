@@ -1,0 +1,8 @@
+!Dataflow
+name: BI_Dataflow
+description: Business Intelligence Dataflow
+yarn_pool:
+- name: pool_80
+  pool: '80'
+- name: pool_60
+  pool: '60'
